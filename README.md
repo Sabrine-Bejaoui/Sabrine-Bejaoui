@@ -1,5 +1,13 @@
 ## Hi ! I’m Sabrine 👋
 
+
+#About me 👨‍💻
+I am a highly motivated Business Intelligence graduate and a self-taught data enthusiast with a passion for turning data into actionable insights. I specialize in ETL processes, dashboard creation, and leveraging BI and machine learning techniques to solve real-world problems. 📊📈
+
+On my GitHub, you will find projects that I have developed from start to finish, demonstrating my ability to transform ideas into functional data-driven solutions. 🚀
+
+Feel free to connect with me on LinkedIn or explore my projects here on GitHub!
+
 # Tech-Stack
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)

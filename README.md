@@ -2,7 +2,7 @@
 
 
 # About me 👨‍💻
-I am a highly motivated Business Intelligence graduate and a self-taught data enthusiast with a passion for turning data into actionable insights. I specialize in ETL processes, dashboard creation, and leveraging BI and machine learning techniques to solve real-world problems. 📊📈
+I am a highly motivated Business Intelligence graduate, self-taught data enthusiast, and full-stack developer with a passion for building intelligent, data-driven solutions.
 
 On my GitHub, you will find projects that I have developed from start to finish, demonstrating my ability to transform ideas into functional data-driven solutions. 🚀
 

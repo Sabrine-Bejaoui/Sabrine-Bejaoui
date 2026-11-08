@@ -10,11 +10,15 @@ I am interested in the point where data becomes a decision: reliable data pipeli
 - **Natural Language Processing:** text extraction, named entity recognition, semantic similarity
 - **Business Intelligence:** ETL, data warehousing, KPI dashboards
 
-## Featured project
+## Featured projects
 
 **[IntelliHire — Intelligent Recruitment Assistant](https://github.com/Sabrine-Bejaoui/IntelliHire-Intelligent-Recruitment-Assistant)**
 Parses PDF resumes, extracts skills with NLP (spaCy) and ranks candidates against job offers using TF-IDF, BM25 and Sentence Transformers, with an explanation of matched and missing skills.
 *FastAPI · PostgreSQL · React · TypeScript · Docker*
+
+**[Smart Demand Forecasting](https://github.com/Sabrine-Bejaoui/smart-demand-forecasting)**
+Analyzes demand trends and seasonality, compares forecasting models (moving average, ARIMA/SARIMA, Random Forest, XGBoost) and turns the forecasts into inventory indicators: safety stock, reorder point and stock-out risk.
+*Python · Pandas · Statsmodels · XGBoost · Power BI · Streamlit*
 
 ## Experience
 
